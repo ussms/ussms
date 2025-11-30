@@ -1,6 +1,6 @@
 <h1 align="center">Hey, name is Puskevit</h1>
 
-🔴 Red Team Specialist @ Turkish Airlines
+🔴 Red Team Specialist @<a href="https://www.turkishairlines.com/tr-tr"></a> Turkish Airlines
 
 
 <div align="center">
